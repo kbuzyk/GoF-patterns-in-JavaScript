@@ -1,3 +1,9 @@
+/*
+	author: Kyrylo Buzykin (kbuzykin@gmail.com)
+	year: 2013
+	specially for Script'n'Code by SoftServe Inc.
+*/
+
 // inheritance
 var __extends = function (Child, Parent) {
     for (var key in Parent) if (Parent.hasOwnProperty(key)) Child[key] = Parent[key];
